@@ -1,0 +1,15 @@
+{
+  "name": "cml-timezone-conversion",
+  "version": "1.0.0",
+  "description": "Simple Command Line program that finds the current time anywhere in the world using timezone conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.37"
+  }
+}
