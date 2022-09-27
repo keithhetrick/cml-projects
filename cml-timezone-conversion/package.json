@@ -1,6 +1,6 @@
 {
   "name": "cml-timezone-conversion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Command Line program that finds the current time anywhere in the world using timezone conversion",
   "main": "index.js",
   "scripts": {
